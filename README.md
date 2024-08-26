@@ -2,8 +2,6 @@
 
 # Test Design in React for Panthera company
 
-## Getting Started with Create React App
-
 ## Este es el diseno:
 ![Vista](https://github.com/Jose-Daniel-G/React-Panthera/blob/main/src/components/images/vista.png)
 ![Modal](https://github.com/Jose-Daniel-G/React-Panthera/blob/main/src/components/images/modal.png)
