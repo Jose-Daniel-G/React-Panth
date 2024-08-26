@@ -5,8 +5,8 @@
 ## Getting Started with Create React App
 
 ## Este es el diseno:
-![Vista](src/componentes/images/vista.png)
-![Modal](src/componentes/images/modal.png)
+![Vista](vista.png)
+![Modal](uploaded.png)
 
 Puedes ver el diseño de la aplicación en Figma en el siguiente enlace:
 
